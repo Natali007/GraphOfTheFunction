@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Graph of the function</string>
+    <string name="action_settings">Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Lagrange">Lagrange</string>
+    <string name="coordinateX">X = </string>
+    <string name="coordinateY">Y = </string>
+</resources>
